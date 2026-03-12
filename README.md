@@ -1,248 +1,147 @@
 <div align="center">
-  
-  <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BadOctop4s&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full stack dev%20at%20Reverse engineering&descAlign=50&descAlignY=51&descSize=16"/>
-  
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Exploring systems, building projects, and learning how things work under the hood.;[Your motto]" alt="Typing Animation"/>
-  
+
+# 🌃 NIGHT CITY TERMINAL 🌃
+### `> connecting to user: BadOctop4s.exe`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Welcome+to+Night+City;[Your quote];BadOctop4s;System+Status%3A+Aberto a novas oportunidades." alt="Typing SVG" />
+
 </div>
 
 ---
 
 <div align="center">
 
-## 🎯 WHO AM I?
+## 🔮 NEURAL INTERFACE ACTIVE 🔮
 
-<table>
-<tr>
-<td>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
-</td>
-<td>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:FF0040,50:8000FF,75:0080FF,100:00FFFF&height=320&section=header&text=BadOctop4s&fontSize=60&fontColor=00FFFF&animation=twinkling&fontAlignY=30&desc=Exploring systems, building projects, and learning how things work under the hood.&descAlignY=65&descSize=20&stroke=FF0080&strokeWidth=2&textBg=true" alt="Profile Banner" />
+</div>
 
+</div>
+
+### 🎭 IDENTITY_MATRIX.dll
 ```yaml
-name: BadOctop4s
-located_in: Rio de janeiro, Brasil
-current_company: Reverse engineering
-current_role: Full stack dev
-education: [Your education]
-website: [Your website]
-
-currently_learning: [Your learningSkills]
-2024_goal: [Your goals]
-hobbies: [Your hobbies]
+Name: BadOctop4s
+Alias: Eodraxkk
+Location: Rio de janeiro, Brasil
+Corp: Reverse engineering
+Role: Full stack dev
+Status: Aberto a novas oportunidades.
+Availability: Contate para mais info.
 ```
 
-</td>
-</tr>
-</table>
+### 💫 CURRENT_MISSION.exe
+> Fazer com que a tecnologia seja útil o suficiente até mesmo para iniciantes.
 
-</div>
-
----
-
-<div align="center">
-
-## 🚀 TECH STACK & TOOLS
-
-<img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=cs,python,linux,figma,github,vscode,discord)](https://skillicons.dev)&perline=8" />
-
-<br/><br/>
-
-<!-- Programming Languages -->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Languages I Speak:**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BadOctop4s&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-
-</div>
+**🎯 Primary Focus:** Aprofundar-me em mais linguagens.  
+**🚀 Next Objective:** Terminar meus que projetos estão em aberto.
 
 ---
 
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
+## ⚡ CYBERDECK SPECS ⚡
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BadOctop4s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BadOctop4s&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BadOctop4s&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BadOctop4s&custom_title=BadOctop4s's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area_color=628fdb&title_color=628fdb&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BadOctop4s&theme=neon-dark&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff6600&currStreakLabel=ff00ff" />
 
 </div>
 
----
-
+### 🧠 NEURAL_STACK.sys
 <div align="center">
 
-## 🏆 ACHIEVEMENTS & TROPHIES
-
-<img src="https://media.giphy.com/media/3oz8xtBx06mcZWoNJm/giphy.gif" width="40">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BadOctop4s&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💼 FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%"/>
-
-### 🎨 Royal Hub
-
-[Your projectDescription1]
-
-**Tech Stack:** `Script made for roblox, focused on experience and stability. Based on Lua`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)]([Your projectLink1])
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo1])
-
-</td>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-
-### 🚀 SyncX - Cheat
-
-[Your projectDescription2]
-
-**Tech Stack:** `Development of cheats for various games. Based on C#`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)]([Your projectLink2])
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo2])
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%"/>
-
-### 🔥 [Your projectName3]
-
-[Your projectDescription3]
-
-**Tech Stack:** `[Your projectStack3]`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=heroku)]([Your projectLink3])
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo3])
-
-</td>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%"/>
-
-### ⚡ [Your projectName4]
-
-[Your projectDescription4]
-
-**Tech Stack:** `[Your projectStack4]`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=firebase)]([Your projectLink4])
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo4])
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 CURRENT FOCUS
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
-```mermaid
-graph LR
-    A[🔭 Currently Working On] --> B[RoyalHub and SyncX Cheat]
-    C[🌱 Learning] --> D[[Your learningSkills]]
-    E[💬 Ask Me About] --> F[[Your expertise]]
-    G[⚡ Fun Fact] --> H[[Your funFact]]
-    
-    style A fill:#ff6b6b
-    style C fill:#4ecdc4
-    style E fill:#45b7d1
-    style G fill:#96ceb4
+**Primary Tech Stack**
+```
+Full stack.
 ```
 
-</div>
+**Languages:** [![My Skills](https://skillicons.dev/icons?i=cs,python,linux,figma,github,vscode,discord)](https://skillicons.dev)  
+**Frontend:** HTML/CSS  
+**Backend:** [![My Skills](https://skillicons.dev/icons?i=cs,python)](https://skillicons.dev)  
+**Database:** [Your databaseSkills]  
+**Cloud:** [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
----
-
-<div align="center">
-
-## 📈 CONTRIBUTION GRAPH
-
-<img src="https://raw.githubusercontent.com/BadOctop4s/BadOctop4s/output/snake.svg" alt="Snake animation" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,aws,mongodb&theme=dark" />
 
 </div>
 
 ---
 
-<div align="center">
+## 🌆 ACTIVE_PROJECTS.dir
 
-## 🌐 CONNECT WITH ME
+### 🔥 Project Alpha: Roleta
+```
+> Status: ACTIVE
+> Description: Apenas uma roleta aleatoria ( melhor que apps com anuncios )
+> Tech Stack: Python
+> Access Terminal: [Your project1Link]
+```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+### ⚡ Project Beta: Royal Hub
+```
+> Status: ACTIVE  
+> Description: Script made for roblox, focused on experience and stability
+> Tech Stack: Lua/Luau
+> Access Terminal: [Your project2Link]
+```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([Your website])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[Your linkedinUsername])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[Your twitterUsername])
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[Your instagramUsername])
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/[Your youtubeChannel])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eodraxkk3@gmail.com)
-
-### 💬 Let's Talk About:
-- 🔥 Web Development & Modern Frameworks
-- 🤖 AI/ML & Data Science
-- 🎨 UI/UX Design Principles
-- 🚀 Startup Ideas & Innovation
-- 📚 Tech Books & Learning Resources
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 WEEKLY DEVELOPMENT BREAKDOWN
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
+### 🌟 Project Gamma: SyncX - Cheat
+```
+> Status: ACTIVE
+> Description: Development of cheats for various games. Based on C#
+> Tech Stack: [Your project3Tech]
+> Access Terminal: [Your project3Link]
+```
 
 ---
 
 <div align="center">
 
-## 🎵 SPOTIFY PLAYING
+## 🎮 SYSTEM_STATS.log
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
+| Metric | Value |
+|--------|-------|
+| 💻 Programming Hours | 20-30/week |
+| ☕ Coffee Consumed | 0 cups/day |
+| 🔄 Currently Learning | Aprofundando-me em C# |
+| 🎯 Active Projects | 3 |
 
 </div>
+
+### 🏆 ACHIEVEMENT_UNLOCKED.dat
+- 🥇 **soon**
+- 🥈 **soon**
+- 🥉 **soon**
+
+### 💭 SYSTEM_WISDOM.txt
+> "With my eyes I can see everything, there is nothing I cannot see"
+
+**Fun Fact:** Nothing.
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=BadOctop4s&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+## 🌐 NETWORK_CONNECTIONS.link
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+<a href="https://linkedin.com/in/[Your linkedin]">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=ff00ff" />
+</a>
+<a href="https://twitter.com/[Your twitter]">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117&color=00ffff" />
+</a>
+<a href="[Your portfolio]">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117&color=ff6600" />
+</a>
+<a href="mailto:eodraxkk3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=ff00ff" />
+</a>
 
-### Thanks for visiting! Have a great day! ✨
+### 📡 TRANSMISSION_END
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" />
+
+*"Welcome to Night City, where dreams come true... for a price."*
 
 </div>
